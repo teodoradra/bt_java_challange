@@ -1,0 +1,9 @@
+com/clients/enrolment/dto/ClientCheckRequest.class
+com/clients/enrolment/dto/ClientCheckResponse.class
+com/clients/enrolment/api/ReputationApi.class
+com/clients/enrolment/api/ExistenceApi.class
+com/clients/enrolment/dto/Document.class
+com/clients/enrolment/controller/EnrolmentController.class
+com/clients/enrolment/EnrolmentApplication.class
+com/clients/enrolment/service/ClientCheckService.class
+com/clients/enrolment/utils/ClientRisk.class

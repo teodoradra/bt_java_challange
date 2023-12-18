@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bt_java_challange_local.iml" filepath="$PROJECT_DIR$/.idea/modules/bt_java_challange_local.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bt_java_challange_local.main.iml" filepath="$PROJECT_DIR$/.idea/modules/bt_java_challange_local.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bt_java_challange_local.test.iml" filepath="$PROJECT_DIR$/.idea/modules/bt_java_challange_local.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/enrolments.main.iml" filepath="$PROJECT_DIR$/.idea/modules/enrolments.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/enrolments.test.iml" filepath="$PROJECT_DIR$/.idea/modules/enrolments.test.iml" />
+    </modules>
+  </component>
+</project>
